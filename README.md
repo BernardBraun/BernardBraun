@@ -1,6 +1,6 @@
 - 👋 Fala pessoal! / What's up guys! Aqui é o @BernardBraun
 - 👀 Estou interessado em Desenvolvimento Front End / Fullstack
-- 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, Angular, Node.JS e TypeScript
+- 🌱 Atualmente estou aprendendo Java, HTML, CSS, JavaScript, Angular, Node.JS e TypeScript
 - 💞️ Estou interessado em ajudar e também aprender.
 - 📫 Qualquer coisa, me manda um e-mail! bernard.sbraun@gmail.com
 
