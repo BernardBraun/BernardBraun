@@ -13,8 +13,9 @@
 </div>
 
 
-#### Tech Badges
-<div style="display: inline_block"><br>
+### Tech Badges
+<hr>
+<div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
