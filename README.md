@@ -25,6 +25,14 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 
+### IDE's
+<hr>
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+</div>
+
+
 
 <!---
 BernardBraun/BernardBraun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
