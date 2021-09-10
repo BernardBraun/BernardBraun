@@ -1,7 +1,7 @@
 ## 👋 Fala pessoal! / What's up guys! Aqui é o @BernardBraun
 
 - 👀 Estou interessado em Desenvolvimento Front End / Fullstack
-- 🌱 Atualmente estou aprendendo Java, HTML, CSS, JavaScript, Angular, Node.JS e TypeScript
+- 🌱 Atualmente estou aprendendo Java, HTML, CSS, JavaScript, Angular, Node.JS, TypeScript e PostgreSQL
 - 💞️ Estou interessado em ajudar e também aprender.
 - 📫 Qualquer coisa, me manda um e-mail! bernard.sbraun@gmail.com
 
@@ -23,6 +23,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 <hr>
