@@ -36,6 +36,12 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 </div>
 
+<hr>
+
+### Social Medias
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"> https://www.linkedin.com/in/bernard-braun-da-silva/
+</div>
 
 
 <!---
