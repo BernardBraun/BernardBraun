@@ -5,13 +5,6 @@
 - 💞️ Estou interessado em ajudar e também aprender.
 - 📫 Qualquer coisa, me manda um e-mail! bernard.sbraun@gmail.com
 
-<div>
-  <a href="https://github.com/BernardBraun">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardBraun&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardBraun&layout=compact&langs_count=16&theme=dark" />  
-  </a>
-</div>
-
 <hr>
 
 ### Tech Badges
